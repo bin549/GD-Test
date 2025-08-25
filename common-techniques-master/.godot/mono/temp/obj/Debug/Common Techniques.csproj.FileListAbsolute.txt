@@ -1,0 +1,17 @@
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/obj/Debug/Common Techniques.csproj.AssemblyReference.cache
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/obj/Debug/Common Techniques.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/obj/Debug/Common Techniques.AssemblyInfoInputs.cache
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/obj/Debug/Common Techniques.AssemblyInfo.cs
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/obj/Debug/Common Techniques.csproj.CoreCompileInputs.cache
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/bin/Debug/Common Techniques.deps.json
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/bin/Debug/Common Techniques.runtimeconfig.json
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/bin/Debug/Common Techniques.dll
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/bin/Debug/Common Techniques.pdb
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/obj/Debug/Common T.D9BE97B8.Up2Date
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/obj/Debug/Common Techniques.dll
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/obj/Debug/refint/Common Techniques.dll
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/obj/Debug/Common Techniques.pdb
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/obj/Debug/Common Techniques.genruntimeconfig.cache
+/Users/Shared/1_practice/cs/common-techniques-master/.godot/mono/temp/obj/Debug/ref/Common Techniques.dll

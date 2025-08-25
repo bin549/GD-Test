@@ -1,0 +1,48 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1756129322
+icon.svg::CompressedTexture2D/CompressedTexture2D::1610122882071672283::1733326910::1756128709::1::::<><><>0<>0<>7b77bb0bed3895e042dcdf6dff51f36c<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets/::1754822032
+::res://assets/background/::1756128709
+Blue.png::CompressedTexture2D/CompressedTexture2D::7882765035301213194::1733326910::1756128709::1::::<><><>0<>0<>660a069046f674dac18a2a8c05dc309c<>res://.godot/imported/Blue.png-e4d0fe5ce5482b768ebe94fe989ec332.ctex::
+Brown.png::CompressedTexture2D/CompressedTexture2D::6834749867116448246::1733326910::1756128709::1::::<><><>0<>0<>246f96029ba0d4e5875290286c370bf2<>res://.godot/imported/Brown.png-d4846fd45908aeba7e0a39355637f148.ctex::
+Gray.png::CompressedTexture2D/CompressedTexture2D::1646024016961409685::1733326910::1756128709::1::::<><><>0<>0<>8989564d6dddffdb8ecfc7fd3ad53327<>res://.godot/imported/Gray.png-e2fca82532237dd3d82b4ba19f32cc4a.ctex::
+Green.png::CompressedTexture2D/CompressedTexture2D::9170909386680468617::1733326910::1756128709::1::::<><><>0<>0<>f2c97af1f6141fc0e0af17b1ec72ee5b<>res://.godot/imported/Green.png-c8cb3fa3b8c1a08968c5f808f33c2317.ctex::
+Pink.png::CompressedTexture2D/CompressedTexture2D::2027174180885944440::1733326910::1756128709::1::::<><><>0<>0<>9e8f440746296688e10126357f9f3489<>res://.godot/imported/Pink.png-9d2b7032df9e4bd4be57364cd1b5fd39.ctex::
+Purple.png::CompressedTexture2D/CompressedTexture2D::7255437908816840266::1733326910::1756128709::1::::<><><>0<>0<>2c4947a4065ef585b732c526f5dcaaf6<>res://.godot/imported/Purple.png-77917668677527212db0e23c59fd5f04.ctex::
+Yellow.png::CompressedTexture2D/CompressedTexture2D::7756984375994533650::1733326911::1756128709::1::::<><><>0<>0<>c92c35875e795200f70e25608df06a93<>res://.godot/imported/Yellow.png-6d81c2eb9b84ec9a265eb0549f5c2993.ctex::
+::res://assets/character/::1756128709
+ninja_frog.png::CompressedTexture2D/CompressedTexture2D::5054270590115740843::1733326911::1756128709::1::::<><><>0<>0<>98a0347702f7465fd51ea688202271f8<>res://.godot/imported/ninja_frog.png-1aa78d5c4c52d8671799d460af7851c1.ctex::
+::res://assets/character/mask_dude/::1756128709
+Fall (32x32).png::CompressedTexture2D/CompressedTexture2D::1884821270727679357::1733326911::1756128709::1::::<><><>0<>0<>8c7aca0a2dcd1640b4bddd1a437027df<>res://.godot/imported/Fall (32x32).png-448c7c98ef861c0a8716d53e26b66da3.ctex::
+Idle (32x32).png::CompressedTexture2D/CompressedTexture2D::5990764163400209321::1733326911::1756128709::1::::<><><>0<>0<>a4ae8736b688d7097317971820fd3c7c<>res://.godot/imported/Idle (32x32).png-87cb27dd4ea2daa28f87d966385c6409.ctex::
+Jump (32x32).png::CompressedTexture2D/CompressedTexture2D::1436033495405697483::1733326911::1756128709::1::::<><><>0<>0<>6e1df191ac93dcc8990081949557b6af<>res://.godot/imported/Jump (32x32).png-543033274e9799301deab85332136ec0.ctex::
+Run (32x32).png::CompressedTexture2D/CompressedTexture2D::2073789273036427409::1733326911::1756128709::1::::<><><>0<>0<>f334d70f8fb853ff0a3d32970e38ac3a<>res://.godot/imported/Run (32x32).png-9328206bcced75d5fcda6213cd37d893.ctex::
+::res://assets/character/virtual_guy/::1756128709
+Fall (32x32).png::CompressedTexture2D/CompressedTexture2D::1296709205544051177::1733326911::1756128709::1::::<><><>0<>0<>6c038ff76078908c4e866ee25d5a36da<>res://.godot/imported/Fall (32x32).png-62cc535dd99f02cbe2aa1ff65c5b26a0.ctex::
+Idle (32x32).png::CompressedTexture2D/CompressedTexture2D::416250380560403303::1733326911::1756128709::1::::<><><>0<>0<>855c366650f4d9025ab5b00d313031c9<>res://.godot/imported/Idle (32x32).png-cbf830321fc6252ab349fd0c9ab6a899.ctex::
+Jump (32x32).png::CompressedTexture2D/CompressedTexture2D::4904825417545761267::1733326911::1756128709::1::::<><><>0<>0<>e327708166ff2d4fabdd373ef56f0c77<>res://.godot/imported/Jump (32x32).png-58650e0aa7f43318b9293445c84f9cff.ctex::
+Run (32x32).png::CompressedTexture2D/CompressedTexture2D::1455359453864176170::1733326911::1756128709::1::::<><><>0<>0<>41b4ebc68e524cda4f8dd66948ea5d25<>res://.godot/imported/Run (32x32).png-d96fa59832cdf59ce4aa3f468ed7a5f8.ctex::
+::res://assets/other/::1756128709
+circle_mask1.png::CompressedTexture2D/CompressedTexture2D::5612896871643726964::1733326911::1756128709::1::::<><><>0<>0<>498368af56860721238bbc52ce7850ba<>res://.godot/imported/circle_mask1.png-4df19f85bb25b3ee4ce73b2e48bec8a2.ctex::
+circle_mask2.png::CompressedTexture2D/CompressedTexture2D::3335587744366125216::1733326911::1756128709::1::::<><><>0<>0<>bbc8a36f93090a41c73e7c02dab40e45<>res://.godot/imported/circle_mask2.png-d54e8d13f3f627b10ae3377d3ab1d688.ctex::
+End.png::CompressedTexture2D/CompressedTexture2D::4426434099711878718::1733326911::1756128709::1::::<><><>0<>0<>2aadaf741e963a9a55f15505ef59ffb0<>res://.godot/imported/End.png-a8eabf8017f8ffb6f634e712c2444acc.ctex::
+mask_weird.png::CompressedTexture2D/CompressedTexture2D::6797986452872267601::1733326911::1756128709::1::::<><><>0<>0<>6c89282a6c90a8080701373de092cea5<>res://.godot/imported/mask_weird.png-5e42c021c5f2f1707fdad48c90463022.ctex::
+Rock Head.png::CompressedTexture2D/CompressedTexture2D::645584816969084567::1733326911::1756128709::1::::<><><>0<>0<>d09a58074fd37850139f791f6bc68f9f<>res://.godot/imported/Rock Head.png-8516735a0e91d4c4b0102627d9a72c2e.ctex::
+Spike Head.png::CompressedTexture2D/CompressedTexture2D::7206433298861702058::1733326911::1756128709::1::::<><><>0<>0<>0a1bbe22883814504417d91c63b72e52<>res://.godot/imported/Spike Head.png-ed81946306228bc8bc800f1c548f754d.ctex::
+Spiked Ball.png::CompressedTexture2D/CompressedTexture2D::6514444062403857011::1733326911::1756128709::1::::<><><>0<>0<>80628010d87b9c5115c857312bda3fa5<>res://.godot/imported/Spiked Ball.png-d31643e6c0dc341025211e305a223dcc.ctex::
+Terrain (16x16).png::CompressedTexture2D/CompressedTexture2D::8761116599710021649::1733326911::1756128709::1::::<><><>0<>0<>06147db99513de7eac48a991511d48d9<>res://.godot/imported/Terrain (16x16).png-d40306042ed17605a88140fb35fd1353.ctex::
+::res://scenes/::1756129267
+CommonTechniques.cs::CSharpScript::454035344828651117::1756129243::0::1::::<>Node2D<><>0<>0<><>::
+CommonTechniques.tscn::PackedScene/PackedScene::4000591844652317819::1756129109::0::1::::<><><>0<>0<><>::uid://gp65psjxg1yv::::res://scenes/CommonTechniques.cs<>uid://dxr452vnr8jd2::::res://shaders/scrolling_bg.gdshader<>uid://c4m2ljq1ynnik::::res://assets/background/Brown.png<>uid://dl5phhc1bmtnq::::res://shaders/distortion.gdshader<>uid://w67qu37jpvs2::::res://icon.svg<>uid://dw27ks2iy6r18::::res://assets/other/Terrain (16x16).png<>uid://cf8ow35myt7tq::::res://scenes/Player.tscn<>uid://d2gb630uadq3v::::res://shaders/grayscale.gdshader<>uid://b4cgytxlrs4ak::::res://assets/other/End.png<>uid://blv174qvtaha4::::res://shaders/map_to_gradient.gdshader<>uid://663jqu8dmgpp::::res://shaders/screen_reading.gdshader<>uid://b21qwo1v4u0v6::::res://shaders/dissolve.gdshader<>uid://jgyxm4826yuh::::res://assets/other/Rock Head.png<>uid://whcehe1y17pp::::res://shaders/masking.gdshader<>uid://cl76udxh2sh1e::::res://assets/other/circle_mask1.png<>uid://daw35yrqwa2a5::::res://assets/other/Spike Head.png
+Player.cs::CSharpScript::2770095199030311498::1756129267::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Player.tscn::PackedScene/PackedScene::5192800894400992942::1756129089::0::1::::<><><>0<>0<><>::uid://bfp4cfcqssxfu::::res://scenes/Player.cs<>uid://ddjlalxj314l6::::res://shaders/flash.gdshader<>uid://crl8amfcmjsrx::::res://assets/character/mask_dude/Idle (32x32).png<>uid://14ay38m416a8::::res://assets/character/mask_dude/Fall (32x32).png<>uid://4stahljyoht6::::res://assets/character/mask_dude/Run (32x32).png<>uid://upvi5yh5werj::::res://assets/character/mask_dude/Jump (32x32).png
+::res://scripts/::1756129119
+::res://shaders/::1756128709
+dissolve.gdshader::Shader/Shader::4336204819361230941::1733326911::0::1::::<><><>0<>0<><>::
+distortion.gdshader::Shader/Shader::7994194291104495174::1733326911::0::1::::<><><>0<>0<><>::
+flash.gdshader::Shader/Shader::7389076482435114617::1733326911::0::1::::<><><>0<>0<><>::
+grayscale.gdshader::Shader/Shader::9066864682617114725::1733326911::0::1::::<><><>0<>0<><>::
+map_to_gradient.gdshader::Shader/Shader::3203487232637164553::1733326911::0::1::::<><><>0<>0<><>::
+masking.gdshader::Shader/Shader::1558734156533404573::1733326911::0::1::::<><><>0<>0<><>::
+screen_reading.gdshader::Shader/Shader::2241566883871009749::1733326911::0::1::::<><><>0<>0<><>::
+scrolling_bg.gdshader::Shader/Shader::8810515694366470941::1733326911::0::1::::<><><>0<>0<><>::
